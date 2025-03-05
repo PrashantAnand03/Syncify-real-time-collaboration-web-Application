@@ -1,2 +1,3 @@
 - **Project Name:** Syncify Real-Time Collaboration web Application.
+- **Tech Stack:** MongoDB, Express.js, React.js, Node.js
 - **Demo Link:** https://frontendproj-xi.vercel.app/
